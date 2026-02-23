@@ -1,7 +1,6 @@
-Assalamualikum,I'm Abidur-Rahman
-"Exploring the nexus of neurological algorithms and cybersecurity . Bridging minds and machines with code and curiosity."✨
+Assalamualikum.
 
-📫 How to reach me: You can contact me via email at abidur.rahman.cs@gmail.com or message me here on GitHub!
+📫contact me via email at abidur.rahman.cs@gmail.com or message me here on GitHub!
 
 
 <!---
